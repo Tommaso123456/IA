@@ -119,7 +119,7 @@ Grade Tracking App
 
 <body style="background-color:powderblue;">
 
-<a class = "SignUp" href="http://localhost:8080/Website-01/SignUpPage.jsp">Don't have an account? Sign up!</a>
+<a class = "SignUp" href="http://localhost:8080/Website-01/SignUpPage.jsp">Don't have an account? Sign up here!</a>
 
 
 
