@@ -9,7 +9,7 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Test Name', <%=request.getAttribute("StudentName")%>],
+          ['Test Name', 'Student Name'],
           ['2004',  800],
           ['2005',  800],     
           ['2006',  800],    
